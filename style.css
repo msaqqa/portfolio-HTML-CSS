@@ -191,7 +191,7 @@ body {
 .floatingDiv>img {
   transform: scale(0.4);
 }
-.floatingDiv>span {
+.floatingDiv>* {
   font-family: sans-serif;
   font-size: 16px;
 }
